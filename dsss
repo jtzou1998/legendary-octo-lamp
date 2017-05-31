@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 0px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1><img src="1.png"  height="390px" width="1092px"></h1>
+</header>
+  
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">My channel</a></li>
+    <li><a href="#">Trending</a></li>
+    <li><a href="#">Subscribtion</a></li>
+    <li><a href="#">History</a></li>
+    <li><a href="#">Watchlater</a></li>
+    <li><a href="#">Liked videos</a></li>
+    <li><a href="#">ilife</a></li>
+  </ul>
+</nav>
+
+<article>
+  <h1>Uploads</h1>
+  <chomp><img src="pic.png" " style="width:210px;height:210px;">
+  </chomp>
+  <p>
+Chompchomp cooooool
+4 months ago12 views
+-- Created using PowToon -- Free sign up at http://www.powtoon.com/youtube/ -- Create animated videos and animated presentations for free. PowToon is a free tool that allows you to develop cool an... </p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  <chomp1><img src="2.png" " style="width:1080px;height:210px;">
+</article>
+
+<footer>Youtube </footer>
+
+</div>
+
+</body>
+</html>
+
